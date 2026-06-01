@@ -1,104 +1,92 @@
-<h1 align="center">⚡ SHAROZ.exe ⚡</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Sharoz Mohd
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=BB86FC&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Open+Source+Contributor;Future+Cloud+Engineer;SOC+Analyst+Learner;Music+%2B+Late+Night+Coding" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHAROZ221&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 💫 About Me
-
-```bash
-> whoami
+```diff
++  SOC Analyst
++ BCA Student
++ Cybersecurity Enthusiast
++ Python Learner
 ```
 
-🎓 Second Year BCA Student  
-🔐 Learning Cybersecurity & SOC Analysis  
-☁️ Exploring Cloud & DevOps  
-💻 Open Source Contributor  
-🎵 Music • Silence • Big Goals  
+---
+
+## 🔐 About Me
+
+🎓 BCA Student
+
+🛡️ Building skills in:
+- Security Operations (SOC)
+- Threat Detection
+- Incident Response
+- Network Security
+
+🐍 Learning Python for Security Automation
+
+📚 Currently studying:
+- IBM Cybersecurity
+- CompTIA Security+
+- CompTIA CySA+
 
 ---
 
-# 🚀 Current Focus
-
-- 🔍 SOC Analyst Skills
-- ☁️ Cloud Computing
-- 🐧 Linux
-- 🌐 Networking
-- 🛡️ Cybersecurity Projects
-- 🤝 Open Source Contributions
-
----
-
-# ⚔️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,git,github,firebase,mysql,html,css,vscode,bash" />
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,html,css,javascript,mysql" />
+
 </p>
 
 ---
 
-# 🔥 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🔐 Password Strength Checker | Checks password security & strength |
-| 📡 Wi-Fi Threat Detector | Detect suspicious Wi-Fi activity |
-| 📚 Study Planner | Smart student productivity tool |
-| 🌐 Portfolio Website | Personal developer portfolio |
-| 🤖 AI Pose Assistant | Real-time pose suggestion app |
+### 🔍 Security Monitoring Dashboard
+Web-based dashboard for monitoring security-related events.
+
+### 🤖 Python Security Scripts
+Automation tools for cybersecurity tasks.
+
+### 🌐 Web Development Projects
+Frontend and backend learning projects.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SHAROZ221&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SHAROZ221&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 Current Goals
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAROZ221&theme=tokyo-night&hide_border=true" />
-</p>
+☑ Build Security Projects
 
----
+☑ Learn SIEM Tools
 
-# 🐍 Contribution Snake
+☑ Complete Security+
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+☑ Land a Cybersecurity Internship
+
+☐ Become a SOC Analyst
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/SHAROZ221">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
-  </a>
-</p>
+💼 LinkedIn: https://www.linkedin.com/in/sharoz-mohd-86057a408/
+
+📧 Email: sharozmohd786@gmail.com
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHAROZ221&label=Profile%20Views&color=bb86fc&style=flat" />
-</p>
+<div align="center">
 
----
+### "Detect • Analyze • Defend"
 
-<p align="center">
-⚡ Creating my own story one day at a time ⚡
-</p>
+</div>
