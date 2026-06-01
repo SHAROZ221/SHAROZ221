@@ -51,12 +51,6 @@ Frontend and backend learning projects.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAROZ221&show_icons=true&theme=tokyonight" />
-</p>
----
 
 ## 🏆 Current Goals
 
