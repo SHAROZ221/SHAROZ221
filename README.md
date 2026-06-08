@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Sharoz Mohd
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Mohd Sharoz
 
 ```diff
-+  SOC Analyst
++ SOC Analyst
 + BCA Student
 + Cybersecurity Enthusiast
 + Python Learner
@@ -47,7 +47,6 @@ Advanced Python WAF with real-time attack detection, rate limiting, and a live m
 ### 🔍 Threat Intelligence Aggregator
 Multi-source threat intel tool integrating AbuseIPDB API for IP reputation lookups and IOC enrichment.
 🔗 [View Project](https://github.com/SHAROZ221/threat-intelligence-aggregator)
----
 
 
 ## 🏆 Current Goals
