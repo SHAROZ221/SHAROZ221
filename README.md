@@ -40,15 +40,13 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 Security Monitoring Dashboard
-Web-based dashboard for monitoring security-related events.
+### 🛡️ SentinelShield-WAF
+Advanced Python WAF with real-time attack detection, rate limiting, and a live monitoring dashboard.
+🔗 [View Project](https://github.com/SHAROZ221/SentinelShield-WAF)
 
-### 🤖 Python Security Scripts
-Automation tools for cybersecurity tasks.
-
-### 🌐 Web Development Projects
-Frontend and backend learning projects.
-
+### 🔍 Threat Intelligence Aggregator
+Multi-source threat intel tool integrating AbuseIPDB API for IP reputation lookups and IOC enrichment.
+🔗 [View Project](https://github.com/SHAROZ221/threat-intelligence-aggregator)
 ---
 
 
