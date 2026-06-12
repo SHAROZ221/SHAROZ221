@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharoz-mohd-86057a408/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharozmohd786@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=sharozmohd&style=flat-square&color=0a66c2)
+![Profile Views](https://komarev.com/ghpvc/?username=SHAROZ221&style=flat-square&color=0a66c2)
 
 </div>
 
@@ -28,21 +28,26 @@ Currently working toward **CompTIA Security+** and **CySA+**, and actively looki
 
 ## Projects
 
-### [SentinelShield-WAF](https://github.com/sharozmohd/SentinelShield-WAF)
+### 🛡️ SentinelShield-WAF
 **Python-based Web Application Firewall**
 
 A production-style WAF built from scratch in Python/Flask. Detects and blocks common web attacks (SQLi, XSS, path traversal), enforces rate limiting, and outputs structured security logs for analysis.
 
 `Python` `Flask` `Intrusion Detection` `Security Logging` `Rate Limiting`
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=railway&logoColor=white)](https://web-production-41b62.up.railway.app/)
+[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/SentinelShield-WAF)
+
 ---
 
-### [ThreatIntel](https://github.com/sharozmohd/ThreatIntel)
+### 🕵️ ThreatIntel
 **SOC Threat Intelligence Platform**
 
 A lightweight IOC management platform for SOC workflows. Supports IP, domain, and file hash tracking with live AbuseIPDB enrichment, search, export, and an analyst dashboard.
 
 `Python` `Flask` `Threat Intelligence` `IOC Management` `AbuseIPDB API`
+
+[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/ThreatIntel)
 
 ---
 
@@ -81,13 +86,14 @@ A lightweight IOC management platform for SOC workflows. Supports IP, domain, an
 ## Learning Roadmap
 
 ```
-✅  Build security projects with real-world use cases
-✅  Learn SIEM tools and threat detection fundamentals  
+✅  Built real-world security projects (WAF + Threat Intel Platform)
+✅  Learned SIEM tools and threat detection fundamentals
 ✅  arcX Cyber Threat Intelligence 101 — Certified
-⬜  CompTIA Security+
-⬜  CompTIA CySA+
-⬜  Land a cybersecurity internship
-⬜  SOC Analyst (Tier 1 → Tier 2)
+✅  Secured internship at Unified Mentor (Year 3 BCA)
+🔄  CompTIA Security+ — In Progress
+🔄  CompTIA CySA+ — In Progress
+⬜  Complete BCA degree
+⬜  Land a SOC Analyst role
 ```
 
 ---
