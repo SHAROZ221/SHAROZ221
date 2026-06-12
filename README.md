@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# `whoami` → Sharoz Mohd
+# `whoami` → Mohd Sharoz 
 
 **SOC Analyst in Training · BCA Student · Cybersecurity Enthusiast**
 
