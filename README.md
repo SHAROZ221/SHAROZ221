@@ -1,15 +1,20 @@
-```
+<div align="center">
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<pre>
 ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ███████╗
 ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗╚══███╔╝
 ███████╗███████║███████║██████╔╝██║   ██║  ███╔╝ 
 ╚════██║██╔══██║██╔══██║██╔══██╗██║   ██║ ███╔╝  
 ███████║██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
+</pre>
+</marquee>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharoz-mohd-86057a408/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharozmohd786@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=sharozmohd&style=flat-square&color=0a66c2)
+
+</div>
 
 ---
 
@@ -43,11 +48,24 @@ A lightweight IOC management platform for SOC workflows. Supports IP, domain, an
 
 ## Skills
 
-**Security Operations**  
-SIEM Tools · Threat Detection · Incident Response · Network Security · IOC Analysis · Log Analysis
+**Security**
 
-**Technical Stack**  
-Python · Linux · Flask · Git · SQL · HTML/CSS/JavaScript
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -74,9 +92,9 @@ Python · Linux · Flask · Git · SQL · HTML/CSS/JavaScript
 
 ---
 
-## GitHub Activity
+## Contribution Snake
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharozmohd&show_icons=true&theme=default&hide_border=true&title_color=0a66c2&icon_color=0a66c2)
+![Snake animation](https://github.com/sharozmohd/sharozmohd/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
