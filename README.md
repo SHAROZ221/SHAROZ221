@@ -94,7 +94,7 @@ A lightweight IOC management platform for SOC workflows. Supports IP, domain, an
 
 ## Contribution Snake
 
-![Snake animation](https://github.com/sharozmohd/sharozmohd/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sharozmohd/SHAROZ221/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
