@@ -20,7 +20,7 @@
 
 ## About
 
-I'm a BCA student focused on building practical skills in security operations — threat detection, incident response, and security automation. I learn by building: both projects below came from trying to solve real SOC problems with Python.
+I'm a BCA student focused on building practical skills in security operations — threat detection, incident response, and security automation. I learn by building: all projects below came from trying to solve real SOC problems with Python.
 
 Currently working toward **CompTIA Security+** and **CySA+**, and actively looking for a cybersecurity internship where I can contribute to a blue team.
 
@@ -31,12 +31,34 @@ Currently working toward **CompTIA Security+** and **CySA+**, and actively looki
 ### 🛡️ SentinelShield-WAF
 **Python-based Web Application Firewall**
 
-A production-style WAF built from scratch in Python/Flask. Detects and blocks common web attacks (SQLi, XSS, path traversal), enforces rate limiting, and outputs structured security logs for analysis.
+A production-style WAF built from scratch in Python/Flask. Detects and blocks common web attacks (SQLi, XSS, LFI, command injection), enforces rate limiting, and outputs structured security logs for analysis. Deployed live on Railway.
 
-`Python` `Flask` `Intrusion Detection` `Security Logging` `Rate Limiting`
+`Python` `Flask` `Intrusion Detection` `Security Logging` `Rate Limiting` `OWASP`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=railway&logoColor=white)](https://web-production-41b62.up.railway.app/)
 [![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/SentinelShield-WAF)
+
+---
+
+### 🔍 MiniNIDS
+**Network Intrusion Detection System**
+
+A Python-based NIDS using Scapy that monitors network packets in real time. Detects port scans, brute force attempts, ICMP floods, and XMAS/NULL scans. Auto-blocks malicious IPs via Windows Firewall and sends Telegram alerts for HIGH severity threats. Includes a SOC-style dashboard and incident report generator.
+
+`Python` `Scapy` `Network Security` `Intrusion Detection` `Telegram API` `SOC`
+
+[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/MiniNIDS)
+
+---
+
+### 🔎 CVE Scanner
+**Vulnerability Detection System**
+
+Runs Nmap to detect open ports and service versions on a target, then queries the NVD (National Vulnerability Database) API to find real CVEs for each service. Results are displayed on a Flask dashboard with CVSS severity scoring, scan history, and export functionality.
+
+`Python` `Flask` `Nmap` `NVD API` `SQLite` `Vulnerability Assessment`
+
+[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/CVE-Scanner)
 
 ---
 
@@ -86,7 +108,7 @@ A lightweight IOC management platform for SOC workflows. Supports IP, domain, an
 ## Learning Roadmap
 
 ```
-✅  Built real-world security projects (WAF + Threat Intel Platform)
+✅  Built real-world security projects (WAF + NIDS + CVE Scanner + Threat Intel)
 ✅  Learned SIEM tools and threat detection fundamentals
 ✅  arcX Cyber Threat Intelligence 101 — Certified
 ✅  Secured internship at Unified Mentor (Year 3 BCA)
