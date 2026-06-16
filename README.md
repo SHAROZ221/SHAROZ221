@@ -101,7 +101,7 @@ A lightweight IOC management platform for SOC workflows. Supports IP, domain, an
 | Certification | Provider | Status |
 |---|---|---|
 | Cyber Threat Intelligence 101 — Foundation Level | arcX | ✅ Completed |
-| Cybersecurity Assessment: Security+ & CySA+ Prep | IBM | 🔄 In Progress |
+| Google Cybersecurity Professional Certificate | Google (Coursera) | 🔄 In Progress |
 
 ---
 
@@ -112,6 +112,7 @@ A lightweight IOC management platform for SOC workflows. Supports IP, domain, an
 ✅  Learned SIEM tools and threat detection fundamentals
 ✅  arcX Cyber Threat Intelligence 101 — Certified
 ✅  Secured internship at Unified Mentor (Year 3 BCA)
+🔄  Google Cybersecurity Professional Certificate — In Progress
 🔄  CompTIA Security+ — In Progress
 🔄  CompTIA CySA+ — In Progress
 ⬜  Complete BCA degree
