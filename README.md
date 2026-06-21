@@ -113,10 +113,7 @@ A lightweight IOC management platform for SOC workflows. Supports IP, domain, an
 ✅  arcX Cyber Threat Intelligence 101 — Certified
 ✅  Secured internship at Unified Mentor (Year 3 BCA)
 🔄  Google Cybersecurity Professional Certificate — In Progress
-🔄  CompTIA Security+ — In Progress
-🔄  CompTIA CySA+ — In Progress
 ⬜  Complete BCA degree
-⬜  Land a SOC Analyst role
 ```
 
 ---
