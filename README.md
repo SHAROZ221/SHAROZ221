@@ -54,7 +54,7 @@ Python-based NIDS using Scapy for real-time packet monitoring. Validated in a Ka
 ### 🔎 CVE Scanner
 **Vulnerability Detection System**
 
-Runs Nmap to detect open ports and service versions on a target, then queries the NVD (National Vulnerability Database) API to find real CVEs for each service. Results are displayed on a Flask dashboard with CVSS severity scoring, scan history, and export functionality.
+A Python-based vulnerability scanner and reporting dashboard designed to automate asset discovery, enumerate network services, and map matching security advisories (CVEs) with severity analytics.
 
 `Python` `Flask` `Nmap` `NVD API` `SQLite` `Vulnerability Assessment`
 
