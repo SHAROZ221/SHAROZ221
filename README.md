@@ -73,6 +73,15 @@ A lightweight IOC management platform for SOC workflows. Supports IP, domain, an
 
 ---
 
+### ⚙️ SOAR-Playbook
+**SOAR Automation Playbook**
+
+A lightweight SOAR (Security Orchestration, Automation & Response) engine that automates SOC alert triage. Declarative YAML playbooks drive a Python engine through IOC enrichment (AbuseIPDB), severity-based decision logic, host containment (dry-run/live modes), automated ticketing, and SOC notifications — with full JSON run-log audit trails for every execution.
+
+`Python` `YAML` `AbuseIPDB API` `Telegram API` `SQLite` `Security Automation`
+
+[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/SOAR-Playbook)
+
 ## Skills
 
 **Security**
