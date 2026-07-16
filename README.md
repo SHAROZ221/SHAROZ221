@@ -31,11 +31,10 @@ Currently working toward **CompTIA Security+** and **CySA+**, and actively looki
 ### 🛡️ SentinelShield-WAF
 **Python-based Web Application Firewall**
 
-A production-style WAF built from scratch in Python/Flask. Detects and blocks common web attacks (SQLi, XSS, LFI, command injection), enforces rate limiting, and outputs structured security logs for analysis. Deployed live on Railway.
+A production-style WAF built from scratch in Python/Flask. Detects and blocks common web attacks (SQLi, XSS, LFI, command injection), enforces rate limiting, and outputs structured security logs for analysis. 
 
 `Python` `Flask` `Intrusion Detection` `Security Logging` `Rate Limiting` `OWASP`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=railway&logoColor=white)](https://web-production-41b62.up.railway.app/)
 [![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/SentinelShield-WAF)
 
 ---
