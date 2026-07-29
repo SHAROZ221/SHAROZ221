@@ -42,7 +42,7 @@ A production-style WAF built from scratch in Python/Flask. Detects and blocks co
 ### 🔍 MiniNIDS
 **Network Intrusion Detection System**
 
-Python-based NIDS using Scapy for real-time packet monitoring. Validated in a Kali Linux + Metasploitable2 lab — detects port scans, brute force attempts, ICMP floods, and XMAS/NULL scans. Auto-blocks malicious IPs via Windows Firewall and sends Telegram alerts for HIGH severity threats. Includes a live SOC-style dashboard and incident report generator.
+Python-based NIDS using Scapy for real-time packet monitoring on Kali Linux. Validated in a Kali Linux + Metasploitable2 lab — detects port scans, brute force attempts, ICMP floods, and XMAS/NULL scans, each mapped to MITRE ATT&CK. Auto-blocks malicious IPs via iptables. Includes a live SOC-style dashboard and incident report generator.
 
 `Python` `Scapy` `Network Security` `Intrusion Detection` `Telegram API` `SOC`
 
