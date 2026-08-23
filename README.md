@@ -72,4 +72,4 @@ A full-stack Flask app that solves a real personal problem — losing track of w
 
 ---
 
-*Open to internships and entry-level opportunities in GenAI/LLM application engineering. Reach out via [LinkedIn](https://www.linkedin.com/in/sharoz-mohd-86057a408/) or [email](mailto:sharozmohd786@gmail.com).*
+*Open to internships and entry-level opportunities in GenAI/LLM application engineering. Reach out via [LinkedIn](https://www.linkedin.com/in/mohd-sharoz-86057a408/) or [email](mailto:sharozmohd786@gmail.com).*
