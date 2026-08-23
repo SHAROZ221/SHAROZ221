@@ -10,6 +10,8 @@
 </pre>
 </marquee>
 
+### Emerging GenAI / LLM Application Engineer
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharoz-mohd-86057a408/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharozmohd786@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=SHAROZ221&style=flat-square&color=0a66c2)
@@ -20,108 +22,47 @@
 
 ## About
 
-I'm a BCA student focused on building practical skills in security operations — threat detection, incident response, and security automation. I learn by building: all projects below came from trying to solve real SOC problems with Python.
+I'm a final-year BCA student building toward **GenAI / LLM Application Engineering**. I learn by building — working hands-on with LLM APIs (Gemini, Claude, Groq), Python fundamentals, and shipping small end-to-end AI-powered apps rather than just following tutorials.
 
-Currently working toward **CompTIA Security+** and **CySA+**, and actively looking for a cybersecurity internship where I can contribute to a blue team.
 
----
+Currently working through a structured 30-day GenAI learning plan and building toward larger projects: a RAG engine, a multi-agent system, and an LLM gateway with guardrails.
 
-## Projects
-
-### 🛡️ SentinelShield-WAF
-**Python-based Web Application Firewall**
-
-A production-style WAF built from scratch in Python/Flask. Detects and blocks common web attacks (SQLi, XSS, LFI, command injection), enforces rate limiting, and outputs structured security logs for analysis. 
-
-`Python` `Flask` `Intrusion Detection` `Security Logging` `Rate Limiting` `OWASP`
-
-[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/SentinelShield-WAF)
+**Looking for:** internship or entry-level opportunities in GenAI/LLM application engineering.
 
 ---
 
-### 🔍 MiniNIDS
-**Network Intrusion Detection System**
+## Featured Projects
 
-Python-based NIDS using Scapy for real-time packet monitoring on Kali Linux. Validated in a Kali Linux + Metasploitable2 lab — detects port scans, brute force attempts, ICMP floods, and XMAS/NULL scans, each mapped to MITRE ATT&CK. Auto-blocks malicious IPs via iptables. Includes a live SOC-style dashboard and incident report generator.
+### 🎬 Ep. Log
+**Anime episode tracker with LLM-powered recommendations**
 
-`Python` `Scapy` `Network Security` `Intrusion Detection` `Telegram API` `SOC`
+A full-stack Flask app that solves a real personal problem — losing track of what episode you're on. Add shows, bump episode counts, and get AI-generated "what to watch next" recommendations from Groq (`gpt-oss-120b`) based on your watchlist.
 
-[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/MiniNIDS)
+`Python` `Flask` `Groq API` `LLM Integration` `Vanilla JS`
 
----
-
-### 🔎 CVE Scanner
-**Vulnerability Detection System**
-
-A Python-based vulnerability scanner and reporting dashboard designed to automate asset discovery, enumerate network services, and map matching security advisories (CVEs) with severity analytics.
-
-`Python` `Flask` `Nmap` `NVD API` `SQLite` `Vulnerability Assessment`
-
-[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/CVE-Scanner)
+[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/ep-log)
 
 ---
 
-### 🕵️ ThreatIntel
-**SOC Threat Intelligence Platform**
-
-A lightweight IOC management platform for SOC workflows. Supports IP, domain, and file hash tracking with live AbuseIPDB enrichment, search, export, and an analyst dashboard.
-
-`Python` `Flask` `Threat Intelligence` `IOC Management` `AbuseIPDB API`
-
-[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/ThreatIntel)
-
----
-
-### ⚙️ SecFlow-Engine
-**SOAR Automation Playbook**
-
-A lightweight SOAR (Security Orchestration, Automation & Response) engine that automates SOC alert triage. Declarative YAML playbooks drive a Python engine through IOC enrichment (AbuseIPDB), severity-based decision logic, host containment (dry-run/live modes), automated ticketing, and SOC notifications — with full JSON run-log audit trails for every execution.
-
-`Python` `YAML` `AbuseIPDB API` `Telegram API` `SQLite` `Security Automation`
-
-[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/SecFlow-Engine)
 
 ## Skills
 
-**Security**
+**AI / LLM**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## Certifications
-
-| Certification | Provider | Status |
-|---|---|---|
-| Cyber Threat Intelligence 101 — Foundation Level | arcX | ✅ Completed |
-| Google Cybersecurity Professional Certificate | Google (Coursera) | 🔄 In Progress |
-
----
-
-## Learning Roadmap
-
-```
-✅  Built real-world security projects (WAF + NIDS + CVE Scanner + Threat Intel)
-✅  Learned SIEM tools and threat detection fundamentals
-✅  arcX Cyber Threat Intelligence 101 — Certified
-✅  Secured internship at Unified Mentor (Year 3 BCA)
-🔄  Google Cybersecurity Professional Certificate — In Progress
-⬜  Complete BCA degree
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -131,4 +72,4 @@ A lightweight SOAR (Security Orchestration, Automation & Response) engine that a
 
 ---
 
-*Available for internships and entry-level opportunities in cybersecurity. Reach out via [LinkedIn](https://www.linkedin.com/in/sharoz-mohd-86057a408/) or [email](mailto:sharozmohd786@gmail.com).*
+*Open to internships and entry-level opportunities in GenAI/LLM application engineering. Reach out via [LinkedIn](https://www.linkedin.com/in/sharoz-mohd-86057a408/) or [email](mailto:sharozmohd786@gmail.com).*
