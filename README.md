@@ -40,6 +40,7 @@ A full-stack Flask app that solves a real personal problem — losing track of w
 
 `Python` `Flask` `Groq API` `LLM Integration` `Vanilla JS`
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eplog.vercel.app/)
 [![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/ep-log)
 
 ---
