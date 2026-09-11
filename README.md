@@ -33,6 +33,17 @@ Currently working through a structured 30-day GenAI learning plan and building t
 
 ## Featured Projects
 
+### 📄 DocChat
+**RAG-powered document Q&A with cited, grounded answers**
+
+A Flask-based Retrieval-Augmented Generation app — upload a document and have a real conversation with it. Parses and chunks the file, embeds it locally, stores vectors in ChromaDB, and answers questions using Gemini 2.5 Flash — grounded strictly in the retrieved content, with source and page citations. If the answer isn't in the document, it says so instead of guessing.
+
+`Python` `Flask` `RAG` `ChromaDB` `sentence-transformers` `Gemini API`
+
+[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/DocChat)
+
+---
+
 ### 🎬 Ep. Log
 **Anime episode tracker with LLM-powered recommendations**
 
