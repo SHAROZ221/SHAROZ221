@@ -22,7 +22,7 @@
 
 ## About
 
-I'm a final-year BCA student building toward **GenAI / LLM Application Engineering**. I learn by building — working hands-on with LLM APIs (Gemini, Claude, Groq), Python fundamentals, and shipping small end-to-end AI-powered apps rather than just following tutorials.
+I'm a final-year BCA student building toward **GenAI / LLM Application Engineering**. I learn by building — working hands-on with LLM APIs (Gemini, Claude, Groq), local models (Ollama), Python fundamentals, and shipping small end-to-end AI-powered apps rather than just following tutorials.
 
 
 Currently working through a structured 30-day GenAI learning plan and building toward larger projects: a RAG engine, a multi-agent system, and an LLM gateway with guardrails.
@@ -36,7 +36,7 @@ Currently working through a structured 30-day GenAI learning plan and building t
 ### 📄 DocChat
 **RAG-powered document Q&A with cited, grounded answers**
 
-A Flask-based Retrieval-Augmented Generation app — upload a document and have a real conversation with it. Parses and chunks the file, embeds it locally, stores vectors in ChromaDB, and answers questions using Gemini 2.5 Flash — grounded strictly in the retrieved content, with source and page citations. If the answer isn't in the document, it says so instead of guessing.
+Upload a document and chat with it. Chunks and embeds the file locally, stores vectors in ChromaDB, and answers with Gemini 2.5 Flash, grounded in the retrieved content with source and page citations. If the answer isn't in the document, it says so.
 
 `Python` `Flask` `RAG` `ChromaDB` `sentence-transformers` `Gemini API`
 
@@ -56,6 +56,17 @@ A full-stack Flask app that solves a real personal problem — losing track of w
 
 ---
 
+### 🛡️ MiniNIDS
+**Local-LLM SOC analyst for network intrusion detection**
+
+A Python + Scapy IDS where every alert is triaged by a local LLM (Ollama, `phi3:mini`): severity, risk score, MITRE ATT&CK mapping, and recommended action. Fully offline. Validated on real attack traffic in a Kali + Metasploitable2 lab.
+
+`Python` `Ollama` `Local LLM` `Scapy` `SQLite` `MITRE ATT&CK`
+
+[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/mininids-ai)
+
+---
+
 
 ## Skills
 
@@ -65,6 +76,7 @@ A full-stack Flask app that solves a real personal problem — losing track of w
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Tech Stack**
 
