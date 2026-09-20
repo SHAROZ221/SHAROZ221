@@ -56,16 +56,7 @@ A full-stack Flask app that solves a real personal problem — losing track of w
 
 ---
 
-### 🛡️ MiniNIDS
-**Local-LLM SOC analyst for network intrusion detection**
 
-A Python + Scapy IDS where every alert is triaged by a local LLM (Ollama, `phi3:mini`): severity, risk score, MITRE ATT&CK mapping, and recommended action. Fully offline. Validated on real attack traffic in a Kali + Metasploitable2 lab.
-
-`Python` `Ollama` `Local LLM` `Scapy` `SQLite` `MITRE ATT&CK`
-
-[![View Project](https://img.shields.io/badge/View_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAROZ221/mininids-ai)
-
----
 
 
 ## Skills
